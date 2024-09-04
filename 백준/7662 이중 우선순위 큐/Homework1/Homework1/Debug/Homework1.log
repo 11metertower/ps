@@ -1,0 +1,4 @@
+﻿  Homework1.c
+c:\users\anhungyu\desktop\ps\7662 이중 우선순위 큐\homework1\homework1\homework1.c(109): warning C4013: 'find_min'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\anhungyu\desktop\ps\7662 이중 우선순위 큐\homework1\homework1\homework1.c(120): warning C4013: 'find_max'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Homework1.vcxproj -> C:\Users\AnHungyu\Desktop\ps\7662 이중 우선순위 큐\Homework1\Debug\Homework1.exe

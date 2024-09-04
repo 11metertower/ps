@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\anhungyu\desktop\ps\14501 퇴사\consoleapplication1\consoleapplication1.cpp(12): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\anhungyu\desktop\ps\14501 퇴사\consoleapplication1\consoleapplication1.cpp(12): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication1.vcxproj -> C:\Users\AnHungyu\Desktop\ps\14501 퇴사\Debug\ConsoleApplication1.exe
