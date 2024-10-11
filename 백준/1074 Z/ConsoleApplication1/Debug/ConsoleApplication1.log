@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\dksgn\Desktop\ps\백준\1074 Z\ConsoleApplication1\main.cpp(10,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication1.vcxproj -> C:\Users\dksgn\Desktop\ps\백준\1074 Z\Debug\ConsoleApplication1.exe
